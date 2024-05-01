@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+# About Me
 Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjalal University of Science & Technology in 2023, majoring in Computer Science & Engineering. My research interests are in the areas of Machine Learning, Computer Vision, Natural Language Processing, and Data Mining.
 
 A data-driven personal website
