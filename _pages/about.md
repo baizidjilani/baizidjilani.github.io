@@ -21,8 +21,13 @@ Education
   
 Research Experience
 -----------
+Reasearch Assistant at SUST - (Nov 2022 - Feb 2023)
 
+In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition" under the supervision of Prof. Dr. Sadia Sultana.
 
+* Played a vital role in creating a facial expression dataset, handling participants’ coordination, informed consent, and image annotation.
+* ensured data uniformity through rigorous preprocessing, including image resizing, removing noise if necessary, and format standardization.
+* contributed to goal setting, model selection, model evaluation, and fine-tuning of the prepared dataset.
 Projects
 ------
 
