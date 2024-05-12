@@ -40,8 +40,8 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 # Publications
 ---------------
 * **SUFEDB: A facial expression database for emotion recognition** <br/>
-  Sultana, Sadia; Sagor, Saiful; Jilani, Golam;, Masum, Al; Paul, Samara <br/>
-(under review in one of the IEEE Transactions journals)
+  Sultana, Sadia; Sagor, Saiful; Jilani, Golam; Masum, Al; Paul, Samara <br/>
+<span style="opacity: 0.5;">(under review in one of the IEEE Transactions journals)</span>  
 
 Projects
 ----------
