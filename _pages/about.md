@@ -85,9 +85,6 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 <span style="opacity: 0.9;">**Golam Jilani**, Samara Paul, and Sadia Sultana </span> <br/>
 <span style="opacity: 0.5;">(manuscript under preparation)</span> 
 
-Projects
-----------
-
 
 Technical Skills
 ---------------
