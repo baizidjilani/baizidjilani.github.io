@@ -26,7 +26,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 
 # Research Experience
 ---------------------
-<div style="display: flex; justify-content: space-between;">
+<div style="display: flex; justify-content: space-between; font-size: 20px;">
     <div><strong>Reasearch Assistant at SUST</strong></div>
     <div>Nov 2022 - Feb 2023</div>
 </div> 
