@@ -30,8 +30,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
     <div><strong>Reasearch Assistant at SUST</strong></div>
     <div>Nov 2022 - Feb 2023</div>
 </div> 
-
-<div style="font-family: 'Lora', serif; font-size: 16px;">
+<div>
 In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition" under the supervision of Prof. Dr. Sadia Sultana.
 <ul>
   <li>
@@ -46,7 +45,6 @@ In the final year of my undergrad studies, I had the privilege of working part-t
     Contributed to goal setting, model selection, model evaluation, and fine-tuning of the prepared dataset.
   </li>
 </ul>
-  
 </div>
 
   
