@@ -30,7 +30,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
     <div><strong>Reasearch Assistant at SUST</strong></div>
     <div>Nov 2022 - Feb 2023</div>
 </div> 
-<div style="opacity: 0.7;">
+<div style="opacity: 0.8;">
 In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition" under the supervision of Prof. Dr. Sadia Sultana.
 <ul>
   <li>
@@ -51,8 +51,8 @@ In the final year of my undergrad studies, I had the privilege of working part-t
     <div><strong>Undergraduate Thesis</strong></div>
     <div>Jan 2022 - Mar 2023</div>
 </div>
-<span style="opacity: 0.7;"> **Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning** </span> <br/>
-<ul style="opacity: 0.7;">
+<span style="opacity: 0.8;"> **Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning** </span> <br/>
+<ul style="opacity: 0.8;">
   <li>Conducted literature reviews to assist in shaping the overall design of the research. </li>
   <li>Developed an efficient Facial Expression Recognition system using Deep Convolution Neural Networks in Ensemble with Transfer Learning and Data Augmentation. </li>
   <li>Incorporated Transfer Learning and Data Augmentation to address the overfitting issue. </li>
@@ -63,8 +63,8 @@ In the final year of my undergrad studies, I had the privilege of working part-t
     <div><strong>Collaborative Research</strong></div>
     <div>Ongoing</div>
 </div>
-<span style="opacity: 0.7;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span> <br/>
-<ul style="opacity: 0.7;">
+<span style="opacity: 0.8;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span> <br/>
+<ul style="opacity: 0.8;">
   <li>Collected bulk amount of depression related data (1M posts) crawling from Reddit. </li>
   <li>Utilized NLTK for text processing, and custom functions for text cleaning. </li>
   <li>Preprocessed the data in time-based approach:- Incremental Window and Sliding window. </li>
