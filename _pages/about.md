@@ -23,7 +23,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 </div> <br/>
 
 
-<h5> Research Experience </h5>
+<h2> Research Experience </h2>
 ---------------------
 <div style="display: flex; justify-content: space-between;">
     <div><strong>Reasearch Assistant at SUST</strong></div>
