@@ -61,6 +61,7 @@ In the final year of my undergrad studies, I had the privilege of working part-t
     <div><strong>Collaborative Research</strong></div>
     <div>Ongoing</div>
 </div>
+<span style="opacity: 0.7;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span> <br/>
 * Collected bulk amount of depression related data (1M posts) crawling from Reddit.
 * Utilized NLTK for text processing, and custom functions for text cleaning.
 * Preprocessed the data in time-based approach:- Incremental Window and Sliding window.
