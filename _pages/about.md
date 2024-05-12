@@ -14,7 +14,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 ----------------------------------------------------------------------------------------------------------
 # Education
 <div style="display: flex; justify-content: space-between;">
-    <div><strong>Shahjalal University of Science & Technology (SUST)</strong>strong></div>
+    <div><strong>Shahjalal University of Science & Technology (SUST)</strong></div>
     <div>Sylhet, Bangladesh</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
@@ -28,7 +28,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 # Research Experience
 -----------
 <div style="display: flex; justify-content: space-between;">
-    <div><strong>*Reasearch Assistant at SUST</strong>strong></div>
+    <div><strong>Reasearch Assistant at SUST</strong></div>
     <div>Nov 2022 - Feb 2023</div>
 </div>
 
