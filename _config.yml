@@ -22,9 +22,9 @@ repository               : "baizidjilani/baizidjilani.github.io"
 author:
   # Biographic information
   name             : "Golam Jilani"
-  avatar           : "profile.png"
+  avatar           : "profile_pic.png"
   pronouns         : # example: "she/her"  
-  bio              : #"Short biography for the left-hand sidebar"
+  bio              : "CS Graduate, 2023 @ SUST"
   location         : "Dhaka, Bangladesh"
   employer         : 
   uri              : # URL
