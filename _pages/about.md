@@ -24,7 +24,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 </div> <br/>
 
 
-<h1> Research Experience </h1>
+# Research Experience
 ---------------------
 <div style="display: flex; justify-content: space-between;">
     <div><strong>Reasearch Assistant at SUST</strong></div>
@@ -46,6 +46,20 @@ In the final year of my undergrad studies, I had the privilege of working part-t
   </li>
 </ul>
 </div>
+
+<div style="display: flex; justify-content: space-between;">
+    <div><strong>Undergraduate Thesis</strong></div>
+    <div>Nov 2022 - Feb 2023</div>
+</div>
+<div>
+  **Title**: Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning. <br>
+* Conducted literature reviews to assist in shaping the overall design of the research.
+• Developed an efficient Facial Expression Recognition system using Deep Convolution Neural Networks in Ensemble with Transfer
+Learning and Data Augmentation.
+• Incorporated Transfer Learning and Data Augmentation to address the overfitting issue.
+• Compared the recognition accuracy of the proposed system with the existing methods.
+</div>
+
 
   
 
