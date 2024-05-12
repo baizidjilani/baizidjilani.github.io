@@ -7,8 +7,6 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<div style="font-family: 'Lora', serif;">
-
 
 # About Me
 ---------------------
@@ -26,7 +24,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 </div> <br/>
 
 
-<h1 style="font-family: 'Lora', serif;"> Research Experience </h1>
+<h1> Research Experience </h1>
 ---------------------
 <div style="display: flex; justify-content: space-between;">
     <div><strong>Reasearch Assistant at SUST</strong></div>
@@ -74,8 +72,6 @@ Technical Skills
 * ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.
 * Problem Solving: Solved 400+ problems in Codeforces, LightOJ, UVa, SPOJ, LeetCode and Hackerrank.
 
-  
-</div>
 
 
 
