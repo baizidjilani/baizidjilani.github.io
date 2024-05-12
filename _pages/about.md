@@ -35,12 +35,13 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 * Played a vital role in creating a facial expression dataset, handling participants’ coordination, informed consent, and image annotation.
 * Ensured data uniformity through rigorous preprocessing, including image resizing, removing noise if necessary, and format standardization.
 * contributed to goal setting, model selection, model evaluation, and fine-tuning of the prepared dataset.
+  
 ----------------------------------------------------------------------------------------------------------------
 # Publications
 ---------------
 * SUFEDB: A facial expression database for emotion recognition <br/>
   Sultana, Sadia; Sagor, Saiful; Jilani, Golam;, Masum, Al; Paul, Samara
-----------------------------------------------------------------------------------------------------------------
+
 
 Projects
 ------
