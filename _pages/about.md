@@ -7,6 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<div style="font-family: 'Lora', serif;">
+
+
 # About Me
 ---------------------
 Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjalal University of Science & Technology in 2023, majoring in Computer Science & Engineering. My research interests are in the areas of Machine Learning, Computer Vision, Natural Language Processing, and Data Mining.
@@ -70,6 +73,10 @@ Technical Skills
 * Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, LaTeX.
 * ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.
 * Problem Solving: Solved 400+ problems in Codeforces, LightOJ, UVa, SPOJ, LeetCode and Hackerrank.
+
+  
+</div>
+
 
 
 
