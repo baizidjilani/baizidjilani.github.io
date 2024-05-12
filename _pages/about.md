@@ -20,7 +20,7 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 <div style="display: flex; justify-content: space-between;">
     <div>B.S. in Computer Science & Engineering </div>
     <div>Feb. 2018 - Mar. 2023</div>
-</div>
+</div> <br/>
 
 
 # Research Experience
@@ -39,9 +39,9 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 
 # Publications
 ---------------
-* SUFEDB: A facial expression database for emotion recognition <br/>
+* **SUFEDB: A facial expression database for emotion recognition** <br/>
   Sultana, Sadia; Sagor, Saiful; Jilani, Golam;, Masum, Al; Paul, Samara
-
+(under review in one of the IEEE Transactions journals)
 
 Projects
 ----------
