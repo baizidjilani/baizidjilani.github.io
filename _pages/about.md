@@ -40,11 +40,12 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 # Publications
 ---------------
 * **SUFEDB: A facial expression database for emotion recognition** <br/>
-  Sadia Sultana; Saiful Sagor; **Golam Jilani**; Al Masum; Samara Paul <br/>
+   <br/>
+  <span style="opacity: 0.8;">Sadia Sultana; Saiful Sagor; <strong> Golam Jilani </strong>; Al Masum; Samara Paul </span>
 <span style="opacity: 0.5;">(under review in one of the IEEE Transactions journals)</span>
 
 * **Leveraging Deep Convolutional Neural Networks in Ensemble with Transfer Learning and Data Augmentation for Facial Expression Recognition** <br/>
-  **Golam Jilani**; Samara Paul; Sadia Sultana <br/>
+<span style="opacity: 0.8;">**Golam Jilani**; Samara Paul; Sadia Sultana </span> <br/>
 <span style="opacity: 0.5;">(manuscript under preparation)</span> 
 
 Projects
