@@ -13,12 +13,8 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 
 ----------------------------------------------------------------------------------------------------------
 # Education
-
-**Shahjalal University of Science & Technology** &emsp; &emsp; &emsp; &emsp;   Sylhet, Bangladesh        <br/>
-B.S. in Computer Science & Engineering      &emsp; &emsp; &emsp; &emsp;        Feb. 2018 - Mar. 2023
-
 <div style="display: flex; justify-content: space-between;">
-    <div>Shahjalal University of Science & Technology</div>
+    <div><strong>Shahjalal University of Science & Technology (SUST)</strong>strong></div>
     <div>Sylhet, Bangladesh</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
@@ -31,7 +27,11 @@ B.S. in Computer Science & Engineering      &emsp; &emsp; &emsp; &emsp;        F
 --------------------------------------------------------------------------------------------------
 # Research Experience
 -----------
-**Reasearch Assistant at SUST - (Nov 2022 - Feb 2023)**
+<div style="display: flex; justify-content: space-between;">
+    <div><strong>*Reasearch Assistant at SUST</strong>strong></div>
+    <div>Nov 2022 - Feb 2023</div>
+</div>
+
 
 In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition" under the supervision of Prof. Dr. Sadia Sultana.
 
