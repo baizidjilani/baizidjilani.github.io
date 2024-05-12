@@ -51,22 +51,28 @@ In the final year of my undergrad studies, I had the privilege of working part-t
     <div><strong>Undergraduate Thesis</strong></div>
     <div>Jan 2022 - Mar 2023</div>
 </div>
-  **Title**: Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning. <br>
-* Conducted literature reviews to assist in shaping the overall design of the research.
-* Developed an efficient Facial Expression Recognition system using Deep Convolution Neural Networks in Ensemble with Transfer Learning and Data Augmentation.
-* Incorporated Transfer Learning and Data Augmentation to address the overfitting issue.
-* Compared the recognition accuracy of the proposed system with the existing methods.
+**Title**: Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning. <br>
+<ul>
+  <li>Conducted literature reviews to assist in shaping the overall design of the research. </li>
+  <li>Developed an efficient Facial Expression Recognition system using Deep Convolution Neural Networks in Ensemble with Transfer Learning and Data Augmentation. </li>
+  <li>Incorporated Transfer Learning and Data Augmentation to address the overfitting issue. </li>
+  <li> Compared the recognition accuracy of the proposed system with the existing methods.</li>
+</ul>
 
 <div style="display: flex; justify-content: space-between;">
     <div><strong>Collaborative Research</strong></div>
     <div>Ongoing</div>
 </div>
 <span style="opacity: 0.7;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span> <br/>
-* Collected bulk amount of depression related data (1M posts) crawling from Reddit.
-* Utilized NLTK for text processing, and custom functions for text cleaning.
-* Preprocessed the data in time-based approach:- Incremental Window and Sliding window.
-* Used pretrained word embedding models like Skip-gram and GloVe for analyzing trends related to depression involves leveraging the semantic relationships encoded in word vectors.
-* Monitored the changes in word embeddings using temporal data
+<ul>
+  <li>Collected bulk amount of depression related data (1M posts) crawling from Reddit. </li>
+  <li>Utilized NLTK for text processing, and custom functions for text cleaning. </li>
+  <li>Preprocessed the data in time-based approach:- Incremental Window and Sliding window. </li>
+  <li>Used pretrained word embedding models like Skip-gram and GloVe for analyzing trends related to depression 
+       involves leveraging the semantic relationships encoded in word vectors. </li>
+  <li> Monitored the changes in word embeddings using temporal data. </li>
+</ul>
+
   
 
 # Publications
