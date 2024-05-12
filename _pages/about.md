@@ -49,7 +49,7 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 
 <div style="display: flex; justify-content: space-between;">
     <div><strong>Undergraduate Thesis</strong></div>
-    <div>Nov 2022 - Feb 2023</div>
+    <div>Jan 2022 - Mar 2023</div>
 </div>
   **Title**: Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning. <br>
 * Conducted literature reviews to assist in shaping the overall design of the research.
@@ -57,7 +57,15 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 * Incorporated Transfer Learning and Data Augmentation to address the overfitting issue.
 * Compared the recognition accuracy of the proposed system with the existing methods.
 
-
+<div style="display: flex; justify-content: space-between;">
+    <div><strong>Collaborative Research</strong></div>
+    <div>Ongoing</div>
+</div>
+* Collected bulk amount of depression related data (1M posts) crawling from Reddit.
+* Utilized NLTK for text processing, and custom functions for text cleaning.
+* Preprocessed the data in time-based approach:- Incremental Window and Sliding window.
+* Used pretrained word embedding models like Skip-gram and GloVe for analyzing trends related to depression involves leveraging the semantic relationships encoded in word vectors.
+* Monitored the changes in word embeddings using temporal data
   
 
 # Publications
