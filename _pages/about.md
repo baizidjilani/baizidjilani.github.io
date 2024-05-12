@@ -26,8 +26,8 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 
 # Research Experience
 ---------------------
-<div style="display: flex; justify-content: space-between; font-size: 20px;">
-    <div><strong>Reasearch Assistant at SUST</strong></div>
+<div style="display: flex; justify-content: space-between;">
+    <div style="font-size: 20px;"><strong>Reasearch Assistant at SUST</strong></div>
     <div>Nov 2022 - Feb 2023</div>
 </div> 
 <div style="opacity: 0.8;">
@@ -48,7 +48,7 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 </div>
 
 <div style="display: flex; justify-content: space-between;">
-    <div><strong>Undergraduate Thesis</strong></div>
+    <div style="font-size: 20px;"><strong>Undergraduate Thesis</strong></div>
     <div>Jan 2022 - Mar 2023</div>
 </div>
 <span style="opacity: 0.8;"> **Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning** </span> <br/>
@@ -60,7 +60,7 @@ In the final year of my undergrad studies, I had the privilege of working part-t
 </ul>
 
 <div style="display: flex; justify-content: space-between;">
-    <div><strong>Collaborative Research</strong></div>
+    <div style="font-size: 20px;"><strong>Collaborative Research</strong></div>
     <div>Ongoing</div>
 </div>
 <span style="opacity: 0.8;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span> <br/>
