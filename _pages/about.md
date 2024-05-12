@@ -17,6 +17,9 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 **Shahjalal University of Science & Technology** &emsp; &emsp; &emsp; &emsp;   Sylhet, Bangladesh        <br/>
 B.S. in Computer Science & Engineering      &emsp; &emsp; &emsp; &emsp;        Feb. 2018 - Mar. 2023
 
+<p class="title"><b>Yonsei University<b style="float:right;">Mar. 2018 - Feb. 2023</b></b></p>
+ <p>B.S. in Computer Science</p>
+
 --------------------------------------------------------------------------------------------------
 # Research Experience
 -----------
