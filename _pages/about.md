@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 ---------------------
-Hello, I am Golam Jilani. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. I am broadly interested in Machine Learning, Computer Vision, Natural Language Processing, and Data Mining.
+Hello, I'm Golam Jilani, a computer science graduate student. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. I am broadly interested in Machine Learning, Computer Vision, Natural Language Processing, and Data Mining.
 
 # Education
 --------------------
@@ -23,6 +23,15 @@ Hello, I am Golam Jilani. I received my bachelor's degree from Shahjalal Univers
     <div>Feb. 2018 - Mar. 2023</div>
 </div> <br/>
 
+<div style="display: flex; justify-content: space-between;">
+    <div><strong>Cumilla Cadet College</strong></div>
+    <div>Cumilla, Bangladesh</div>
+</div>
+<div style="display: flex; justify-content: space-between;">
+    <div>Higher Secondary Eduction </div>
+    <div>2016 - 2017</div>
+</div> <br/>
+
 
 # Research Experience
 ---------------------
@@ -32,7 +41,7 @@ Hello, I am Golam Jilani. I received my bachelor's degree from Shahjalal Univers
 </div> 
 Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" target="_blank"> Dr. Sadia Sultana</a> <br>
 <div>
-  In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition". I collected consent from participants and annotated expression images via OpenCV. I had also done preprocessing of images to ensure data uniformity of the dataset. In addition, I had evaluated and analyzed the performance of current state-of-the-art CNN models on the dataset.
+  In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "<strong>SUFEDB: A facial expression database for emotion recognition</strong>". I collected consent from participants and annotated expression images via OpenCV. I had also done preprocessing of images to ensure data uniformity of the dataset. In addition, I had evaluated and analyzed the performance of current state-of-the-art CNN models on the dataset.
 </div> <br>
 
 <div style="display: flex; justify-content: space-between;">
@@ -74,12 +83,17 @@ Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" targe
 <span style="opacity: 0.5;">(manuscript under preparation)</span> 
 
 
-Technical Skills
+## Technical Skills
 ---------------
 * Languages & Databases: Python, C, Java, JavaScript, MySQL, MongoDB.
 * Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, LaTeX.
 * ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.
 * Problem Solving: Solved 400+ problems in Codeforces, LightOJ, UVa, SPOJ, LeetCode and Hackerrank.
+
+
+## Contact
+---------
+
 
 
 
