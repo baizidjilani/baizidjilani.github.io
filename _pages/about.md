@@ -31,7 +31,7 @@ Hello, I am Golam Jilani. I received my bachelor's degree from Shahjalal Univers
     <div>Nov 2022 - Feb 2023</div>
 </div> 
 <div style="opacity: 0.8;">
-* Supervisor: [Dr. Sadia Sultana](https://www.sust.edu/d/cse/faculty-profile-detail/44)
+Supervisor: [Dr. Sadia Sultana](https://www.sust.edu/d/cse/faculty-profile-detail/44)
 In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition".
 <ul>
   <li>
