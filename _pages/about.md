@@ -83,15 +83,13 @@ Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" targe
 
 
 ## Technical Skills
----------------
+
 * Languages & Databases: Python, C, Java, JavaScript, MySQL, MongoDB.
 * Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, LaTeX.
 * ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.
 * Problem Solving: Solved 400+ problems in Codeforces, LightOJ, UVa, SPOJ, LeetCode and Hackerrank.
 
 
-## Contact
----------
 
 
 
