@@ -13,3 +13,5 @@ We also designed and incorporated crucial e-commerce functionalities such as a p
 order management, user authentication, and payment gateway integration.
 
 **Technology**: Node.js, Express.js, MongoDB.
+
+**This page will be updated soon.**
