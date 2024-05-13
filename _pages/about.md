@@ -31,22 +31,10 @@ Hello, I am Golam Jilani. I received my bachelor's degree from Shahjalal Univers
     <div>Nov 2022 - Feb 2023</div>
 </div> 
 <div style="opacity: 0.8;">
-Supervisor: [Dr. Sadia Sultana](https://www.sust.edu/d/cse/faculty-profile-detail/44)
-In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition".
-<ul>
-  <li>
-    Played a vital role in creating a facial expression dataset, handling participants’ coordination, informed 
-   consent, and image annotation.
-  </li>
-  <li>
-    Ensured data uniformity through rigorous preprocessing, including image resizing, removing noise if necessary, 
-    and format standardization.
-  </li>
-  <li>
-    Contributed to goal setting, model selection, model evaluation, and fine-tuning of the prepared dataset.
-  </li>
-</ul>
-</div>
+Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44"> Dr. Sadia Sultana</a> 
+
+In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition". I collected consent from participants and annotated expression images via OpenCV. I had also done preprocessing of images to ensure data uniformity of the dataset. In addition, I had evaluated and analyzed the performance of current state-of-the-art CNN models on the dataset.
+
 
 <div style="display: flex; justify-content: space-between;">
     <div style="font-size: 20px;"><strong>Undergraduate Thesis</strong></div>
