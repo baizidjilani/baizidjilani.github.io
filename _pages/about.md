@@ -21,8 +21,7 @@ Hello, I'm Golam Jilani, a computer science graduate student. I received my bach
 <div style="display: flex; justify-content: space-between;">
     <div>B.S. in Computer Science & Engineering </div>
     <div>Feb. 2018 - Mar. 2023</div>
-</div> <br/>
-
+</div> 
 <div style="display: flex; justify-content: space-between;">
     <div><strong>Cumilla Cadet College</strong></div>
     <div>Cumilla, Bangladesh</div>
