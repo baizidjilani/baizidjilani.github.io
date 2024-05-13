@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 ---------------------
-Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjalal University of Science & Technology in 2023, majoring in Computer Science & Engineering. I am broadly interested in Machine Learning, Computer Vision, Natural Language Processing, and Data Mining.
+Hello, I am Golam Jilani. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. I am broadly interested in Machine Learning, Computer Vision, Natural Language Processing, and Data Mining.
 
 # Education
 --------------------
@@ -27,11 +27,12 @@ Hello, I am Golam Jilani. I have completed my undergraduate degree from Shahjala
 # Research Experience
 ---------------------
 <div style="display: flex; justify-content: space-between;">
-    <div style="font-size: 20px;"><strong>Reasearch Assistant at SUST</strong></div>
+    <div style="font-size: 20px;"><strong>Reasearch Assistant</strong></div>
     <div>Nov 2022 - Feb 2023</div>
 </div> 
 <div style="opacity: 0.8;">
-In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition" under the supervision of Prof. Dr. Sadia Sultana.
+* Supervisor: [Dr. Sadia Sultana](https://www.sust.edu/d/cse/faculty-profile-detail/44)
+In the final year of my undergrad studies, I had the privilege of working part-time as a research assistant on a university research project titled "SUFEDB: A facial expression database for emotion recognition".
 <ul>
   <li>
     Played a vital role in creating a facial expression dataset, handling participants’ coordination, informed 
