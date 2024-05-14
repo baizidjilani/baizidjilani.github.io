@@ -10,7 +10,7 @@ redirect_from:
 
 # About Me
 ---------------------
-Hello, I'm Golam Jilani, a computer science graduate student. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. I am broadly interested in Machine Learning, Computer Vision, Natural Language Processing, and Data Mining.
+Hello, I'm Golam Jilani, a computer science graduate student. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. My research interests are in the areas of Machine Learning, Computer Vision, Natural Language Processing, and Data Mining. I am interested in deriving meaningful information from texts/images/videos to solve real-world problems.
 
 # Education
 --------------------
@@ -21,7 +21,7 @@ Hello, I'm Golam Jilani, a computer science graduate student. I received my bach
 <div style="display: flex; justify-content: space-between;">
     <div>B.S. in Computer Science & Engineering </div>
     <div>Feb. 2018 - Mar. 2023</div>
-</div> 
+</div> <br>
 <div style="display: flex; justify-content: space-between;">
     <div><strong>Cumilla Cadet College</strong></div>
     <div>Cumilla, Bangladesh</div>
