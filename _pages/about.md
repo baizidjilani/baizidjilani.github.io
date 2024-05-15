@@ -67,13 +67,18 @@ In recent years, there has been an increasing interest in expressing thoughts an
 
 # Publications
 ---------------
-* **SUFEDB: A facial expression database for emotion recognition** <br/>
+<div>
+  <strong>SUFEDB: A facial expression database for emotion recognition</strong> <br/>
   <span style="opacity: 0.9;">Sadia Sultana, Saiful Sagor, **Golam Jilani**, Al Masum, and Samara Paul </span> <br/>
 <span style="opacity: 0.5;">(under review in one of the IEEE Transactions journals)</span>
+</div>
 
-* **Leveraging Deep Convolutional Neural Networks in Ensemble with Transfer Learning and Data Augmentation for Facial Expression Recognition** <br/>
+<div>
+  <strong>Leveraging Deep Convolutional Neural Networks in Ensemble with Transfer Learning and Data Augmentation for Facial Expression Recognition</strong> <br/>
 <span style="opacity: 0.9;">**Golam Jilani**, Samara Paul, and Sadia Sultana </span> <br/>
 <span style="opacity: 0.5;">(manuscript under preparation)</span> 
+</div>
+
 
 
 ## Technical Skills
