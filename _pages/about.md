@@ -22,14 +22,6 @@ Hello, I'm Golam Jilani, a computer science graduate student. I received my bach
     <div>B.S. in Computer Science & Engineering </div>
     <div>Feb. 2018 - Mar. 2023</div>
 </div> <br>
-<div style="display: flex; justify-content: space-between;">
-    <div><strong>Cumilla Cadet College</strong></div>
-    <div>Cumilla, Bangladesh</div>
-</div>
-<div style="display: flex; justify-content: space-between;">
-    <div>Higher Secondary Eduction </div>
-    <div>2016 - 2017</div>
-</div> <br/>
 
 
 # Research Experience
@@ -48,28 +40,30 @@ Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" targe
     <div>Jan 2022 - Mar 2023</div>
 </div>
 <span style="opacity: 0.8;"> **Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning** </span> <br/>
+Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" target="_blank"> Dr. Sadia Sultana</a> <br>
+<div>
 <ul style="opacity: 0.8;">
   <li>Conducted literature reviews to assist in shaping the overall design of the research. </li>
-  <li>Developed an efficient Facial Expression Recognition system using Deep Convolution Neural Networks in Ensemble with Transfer Learning and Data Augmentation. </li>
+  <li>Developed and trained an efficient Facial Expression Recognition system utilizing Deep Convolution Neural Networks in an Ensemble with Transfer Learning, achieving 97.32% accuracy.</li>
   <li>Incorporated Transfer Learning and Data Augmentation to address the overfitting issue. </li>
-  <li> Compared the recognition accuracy of the proposed system with the existing methods.</li>
+  <li> Compared the recognition accuracy of the proposed system with the existing SOTA methods.</li>
 </ul> <br>
 
 <div style="display: flex; justify-content: space-between;">
     <div style="font-size: 20px;"><strong>Collaborative Research</strong></div>
     <div>Ongoing</div>
-</div>
-<span style="opacity: 0.8;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span> <br/>
+</div><br/>
+<!-- <span style="opacity: 0.8;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span>  -->
+In recent years, there has been an increasing interest in expressing thoughts and feelings on social media rather than in face-to-face conversation. Social networks, especially Reddit, have emerged as powerful platforms for sharing depression, which can be utilized to analyze the trends of depression. <br/>
 <ul style="opacity: 0.8;">
-  <li>Collected bulk amount of depression related data (1M posts) crawling from Reddit. </li>
-  <li>Utilized NLTK for text processing, and custom functions for text cleaning. </li>
-  <li>Preprocessed the data in time-based approach:- Incremental Window and Sliding window. </li>
-  <li>Used pretrained word embedding models like Skip-gram and GloVe for analyzing trends related to depression 
+  <li>Collected a bulk amount of depression-related data (1M posts) crawling from Reddit. </li>
+  <li>Utilized NLTK for text processing and custom functions for text cleaning. </li>
+  <li>Preprocessed the data in a time-based approach:- Incremental Window and Sliding Window. </li>
+  <li>Used pre-trained word embeddings like Skip-gram and GloVe for analyzing trends related to depression 
        involves leveraging the semantic relationships encoded in word vectors. </li>
   <li> Monitored the changes in word embeddings using temporal data. </li>
 </ul>
 
-  
 
 # Publications
 ---------------
@@ -87,8 +81,13 @@ Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" targe
 * Languages & Databases: Python, C, Java, JavaScript, MySQL, MongoDB.
 * Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, LaTeX.
 * ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.
-* Problem Solving: Solved 400+ problems in Codeforces, LightOJ, UVa, SPOJ, LeetCode and Hackerrank.
 
+
+### Misc
+Outside of research, I enjoy reading non-fiction, playing cricket and badminton, outdoor activities (hiking, cycling, and running), and gardening. I am a DIY enthusiast and love building DIY products like desk organizers, photo frames, planters, etc.
+
+**Contact** <br>
+golam.jilani1656@gmail.com
 
 
 
