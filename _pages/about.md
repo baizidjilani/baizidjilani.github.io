@@ -65,8 +65,7 @@ In recent years, there has been an increasing interest in expressing thoughts an
 </ul>
 
 
-# Publications
-------------------------
+<h2>  Publications </h2>
 <div>
   <strong>SUFEDB: A facial expression database for emotion recognition</strong> <br/>
   <span style="opacity: 0.9;">Sadia Sultana, Saiful Sagor, **Golam Jilani**, Al Masum, and Samara Paul </span> <br/>
@@ -81,8 +80,8 @@ In recent years, there has been an increasing interest in expressing thoughts an
 
 
 
-## Technical Skills
------------------------------
+<h5> Technical Skills </h5>
+
 * Languages & Databases: Python, C, Java, JavaScript, MySQL, MongoDB.
 * Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, LaTeX.
 * ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.
