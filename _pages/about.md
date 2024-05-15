@@ -65,7 +65,7 @@ In recent years, there has been an increasing interest in expressing thoughts an
 </ul>
 
 
-<h1>  Publications </h1>
+<h2>  Publications </h2>
 <div>
   <strong>SUFEDB: A facial expression database for emotion recognition</strong> <br/>
   <span style="opacity: 0.9;">Sadia Sultana, Saiful Sagor, <strong>Golam Jilani</strong>, Al Masum, and Samara Paul </span> <br/>
@@ -88,11 +88,11 @@ In recent years, there has been an increasing interest in expressing thoughts an
 </ul>
 
 
-<h4> Misc </h4>
+<h3> Misc </h3>
 
 Outside of research, I enjoy reading non-fiction, playing cricket and badminton, outdoor activities (hiking, cycling, and running), and gardening. I am a DIY enthusiast and love building DIY products like desk organizers, photo frames, planters, etc.
 
-<h4>Contact</h4>
+**Contact** <br>
 golam.jilani1656@gmail.com
 
 
