@@ -83,12 +83,7 @@ In recent years, there has been an increasing interest in expressing thoughts an
 * ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.
 
 
-**Misc**
------------------
-Outside of research, I enjoy reading non-fiction, playing cricket and badminton, outdoor activities (hiking, cycling, and running), and gardening. I am a DIY enthusiast and love building DIY products like desk organizers, photo frames, planters, etc.
 
-**Contact** <br>
-golam.jilani1656@gmail.com
 
 
 
