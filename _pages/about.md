@@ -54,7 +54,7 @@ Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" targe
     <div>Ongoing</div>
 </div><br/>
 <!-- <span style="opacity: 0.8;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span>  -->
-In recent years, there has been an increasing interest in expressing thoughts and feelings on social media rather than in face-to-face conversation. Social networks, especially Reddit, have emerged as powerful platforms for sharing depression, which can be utilized to analyze the trends of depression. <br/>
+In recent years, there has been an increasing interest in expressing thoughts and feelings on social media rather than in face-to-face conversation. Social networks, especially Reddit, have emerged as powerful platforms for sharing depression, which can be utilized to analyze the trends of depression.
 <ul style="opacity: 0.8;">
   <li>Collected a bulk amount of depression-related data (1M posts) crawling from Reddit. </li>
   <li>Utilized NLTK for text processing and custom functions for text cleaning. </li>
