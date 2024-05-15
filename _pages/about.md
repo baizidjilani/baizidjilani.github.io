@@ -65,32 +65,34 @@ In recent years, there has been an increasing interest in expressing thoughts an
 </ul>
 
 
-<h2>  Publications </h2>
+<h1>  Publications </h1>
 <div>
   <strong>SUFEDB: A facial expression database for emotion recognition</strong> <br/>
-  <span style="opacity: 0.9;">Sadia Sultana, Saiful Sagor, **Golam Jilani**, Al Masum, and Samara Paul </span> <br/>
+  <span style="opacity: 0.9;">Sadia Sultana, Saiful Sagor, <strong>Golam Jilani</strong>, Al Masum, and Samara Paul </span> <br/>
 <span style="opacity: 0.5;">(under review in one of the IEEE Transactions journals)</span>
-</div>
+</div> <br>
 
 <div>
   <strong>Leveraging Deep Convolutional Neural Networks in Ensemble with Transfer Learning and Data Augmentation for Facial Expression Recognition</strong> <br/>
-<span style="opacity: 0.9;">**Golam Jilani**, Samara Paul, and Sadia Sultana </span> <br/>
+<span style="opacity: 0.9;"><strong>Golam Jilani</strong>, Samara Paul, and Sadia Sultana </span> <br/>
 <span style="opacity: 0.5;">(manuscript under preparation)</span> 
 </div>
 
 
 
-<h5> Technical Skills </h5>
-
-* Languages & Databases: Python, C, Java, JavaScript, MySQL, MongoDB.
-* Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, LaTeX.
-* ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.
-
-
-
+<h2> Technical Skills </h2>
+<ul>
+  <li>Languages & Databases: Python, C, Java, JavaScript, MySQL, MongoDB. </li>
+  <li>Frameworks: MERN Stack (MongoDB, Express.js, React.js, Node.js), Django, LaTeX. </li>
+  <li>ML Frameworks: PyTorch, Keras, Tensorflow, Numpy, Pandas, scikit-learn, OpenCV, NLTK, Gensim.</li>
+</ul>
 
 
+<h4> Misc </h4>
 
+Outside of research, I enjoy reading non-fiction, playing cricket and badminton, outdoor activities (hiking, cycling, and running), and gardening. I am a DIY enthusiast and love building DIY products like desk organizers, photo frames, planters, etc.
 
+<h4>Contact</h4>
+golam.jilani1656@gmail.com
 
 
