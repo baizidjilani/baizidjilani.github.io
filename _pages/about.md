@@ -54,15 +54,7 @@ Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" targe
     <div>Ongoing</div>
 </div><br/>
 <!-- <span style="opacity: 0.8;"> **DepressionTrend: Leveraging Dynamic Word Embeddings to Analyze the Trends of Depression** </span>  -->
-In recent years, there has been an increasing interest in expressing thoughts and feelings on social media rather than in face-to-face conversation. Social networks, especially Reddit, have emerged as powerful platforms for sharing depression, which can be utilized to analyze the trends of depression.
-<ul style="opacity: 0.8;">
-  <li>Collected a bulk amount of depression-related data (1M posts) crawling from Reddit. </li>
-  <li>Utilized NLTK for text processing and custom functions for text cleaning. </li>
-  <li>Preprocessed the data in a time-based approach:- Incremental Window and Sliding Window. </li>
-  <li>Used pre-trained word embeddings like Skip-gram and GloVe for analyzing trends related to depression 
-       involves leveraging the semantic relationships encoded in word vectors. </li>
-  <li> Monitored the changes in word embeddings using temporal data. </li>
-</ul>
+In recent years, there has been an increasing interest in expressing thoughts and feelings on social media rather than in face-to-face conversation. Social networks, especially Reddit, have emerged as powerful platforms for sharing depression, which can be utilized to analyze the trends of depression. For this, we collected a bulk amount of depression-related data (1M posts) crawling from Reddit and utilized NLTK for text processing and custom functions for text cleaning. We preprocessed the data in a time-based approach: Incremental Window and Sliding Window. We have used pre-trained word embeddings like Skip-gram and GloVe for analyzing trends related to depression, leveraging the semantic relationships encoded in word vectors.
 
 
 <h2>  Publications </h2>
