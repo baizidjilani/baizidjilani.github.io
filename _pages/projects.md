@@ -12,6 +12,12 @@ We have integrated three APIs (E-commerce, Bank, and Seller) to improve function
 We also designed and incorporated crucial e-commerce functionalities such as a product catalog, shopping cart, 
 order management, user authentication, and payment gateway integration.
 
-**Technology**: Node.js, Express.js, MongoDB.
+**Technology**: React, Node.js, Express.js, MongoDB.
 
-**This page will be updated soon.**
+
+## A web application for creating Result Processing System (RPS) 
+In this age of online learning, we focused on building an Online Result Management System(ORPS) using Django framework. 
+It is designed for interactions between teachers and students where students can view their academic result and download 
+the tabulation sheet and teachers can view, enter and edit the marks and generate the tabulation sheet.
+
+**Technology**: JavaScript, Django, SQLite3.
