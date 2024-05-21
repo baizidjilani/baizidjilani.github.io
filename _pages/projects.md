@@ -25,4 +25,4 @@ the tabulation sheet and teachers can view, enter and edit the marks and generat
 ## Covid-19 outbreak prediction using Machine Learning
 A machine learning project where different machine learning models (Random Forest, Support Vector Machine, and Decision Tree) are trained on the 
 **Our World in Data COVID-19 dataset** to predict the outbreak in the SAARC (Bangladesh, Nepal, India, Pakistan, Bhutan, Sri Lanka, Maldives, and Afghanistan) 
-countries. RMSE, MSE,  and R-squared (R²) Scores are used as evaluation metrics.
+countries. 
