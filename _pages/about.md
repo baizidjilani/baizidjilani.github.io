@@ -39,14 +39,14 @@ Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" targe
     <div style="font-size: 20px;"><strong>Undergraduate Thesis</strong></div>
     <div>Jan 2022 - Mar 2023</div>
 </div>
-<span style="opacity: 0.8;"> **Development of an Ensemble Learning System for Facial Expression Recognition utilizing DCNN with Transfer Learning** </span> <br/>
+<span style="opacity: 0.8;"> **Development of an Ensemble Learning system for Facial Expression Recognition using smaller CNN models with Transfer
+Learning** </span> <br/>
 Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" target="_blank"> Dr. Sadia Sultana</a> <br>
 <div>
 <ul style="opacity: 0.8;">
-  <li>Conducted literature reviews to assist in shaping the overall design of the research. </li>
-  <li>Developed and trained an efficient Facial Expression Recognition system utilizing Deep Convolution Neural Networks in an Ensemble with Transfer Learning, achieving 97.32% accuracy.</li>
-  <li>Incorporated Transfer Learning and Data Augmentation to address the overfitting issue. </li>
-  <li> Compared the recognition accuracy of the proposed system with the existing SOTA methods.</li>
+  <li>Developed and trained an efficient Facial Expression Recognition ensemble learning system using smaller CNN models with transfer learning, which achieved 97.55% accuracy on the benchmark dataset KDEF.</li>
+  <li>Used transfer learning and advanced data augmentation to deal with overfitting problems and assessed the performance of Mixup and CutMix data augmentation on our benchmark datasets. </li>
+  <li> Validated the effectiveness of our ensemble model with other existing state-of-the-art methods.</li>
 </ul> <br>
 
 <div style="display: flex; justify-content: space-between;">
