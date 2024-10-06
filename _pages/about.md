@@ -65,13 +65,13 @@ In recent years, there has been an increasing interest in expressing thoughts an
 <h2>  Publications </h2>
 <div>
   <strong>SUFEDB: A facial expression database for emotion recognition</strong> <br/>
-  <span style="opacity: 0.9;">Sadia Sultana, Saiful Sagor, <strong>Golam Jilani</strong>, Al Masum, and Samara Paul </span> <br/>
+  <span style="opacity: 0.9;">Sadia Sultana, Saiful Sagor, <strong>Golam Jilani</strong>, Al Masum, Samara Paul </span> <br/>
 <span style="opacity: 0.5;">(under review)</span>
 </div> <br>
 
 <div>
   <strong>An efficient ensemble learning model integrating multi-branch sub-networks for facial expression recognition.</strong> <br/>
-<span style="opacity: 0.9;"><strong>Golam Jilani</strong>, Samara Paul, and Sadia Sultana </span> <br/>
+<span style="opacity: 0.9;"><strong>Golam Jilani</strong>, Samara Paul, Sadia Sultana </span> <br/>
 <span style="opacity: 0.5;">(under review)</span> 
 </div>
 
