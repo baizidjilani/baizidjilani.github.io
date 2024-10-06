@@ -20,7 +20,7 @@ Hello, I'm Golam Jilani, a computer science graduate student. I received my bach
 </div>
 <div style="display: flex; justify-content: space-between;">
     <div>B.S. in Computer Science & Engineering </div>
-    <div>Feb. 2018 - Mar. 2023</div>
+    <div>Feb. 2018 - May 2023</div>
 </div>
 <div style="display: flex; justify-content: space-between;">
     <div>GPA: 3.51/4.00 (<b>3.73</b> in the last two years)</div>
