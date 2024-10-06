@@ -72,7 +72,7 @@ In recent years, there has been an increasing interest in expressing thoughts an
 <div>
   <strong>An efficient ensemble learning model integrating multi-branch sub-networks for facial expression recognition.</strong> <br/>
 <span style="opacity: 0.9;"><strong>Golam Jilani</strong>, Samara Paul, and Sadia Sultana </span> <br/>
-<span style="opacity: 0.5;">(manuscript under preparation)</span> 
+<span style="opacity: 0.5;">(under review)</span> 
 </div>
 
 
