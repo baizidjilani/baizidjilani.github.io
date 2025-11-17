@@ -138,6 +138,7 @@ In recent years, there has been an increasing interest in expressing thoughts an
 -->
 
 
+<!--
 <h2> Technical Skills </h2>
 <ul>
   <li>Languages & Databases: Python, C, Java, JavaScript, MySQL, MongoDB. </li>
@@ -152,5 +153,6 @@ Outside of research, I enjoy reading non-fiction, playing cricket and badminton,
 
 <h3>Contact</h3>
 golam.jilani1656@gmail.com
+-->
 
 
