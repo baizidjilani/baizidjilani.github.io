@@ -1,93 +1,30 @@
 ---
 layout: archive
-title: "Publications"
+title: "Selected Publications"
 permalink: /research/
 author_profile: true
 ---
 
 <style>
-    /* Page header styling */
-    .research-header {
-        text-align: center;
-        margin-bottom: 50px;
-        animation: fadeInDown 0.8s ease-out;
-    }
-
-    .research-intro {
-        font-size: 1.15em;
-        color: var(--global-text-color);
-        line-height: 1.8;
-        margin-bottom: 25px;
-        max-width: 800px;
-        margin-left: auto;
-        margin-right: auto;
-    }
-
-    .scholar-button {
-        display: inline-flex;
-        align-items: center;
-        gap: 10px;
-        background: linear-gradient(135deg, #4285f4 0%, #3367d6 100%);
-        color: white !important;
-        padding: 14px 32px;
-        text-decoration: none !important;
-        border-radius: 30px;
-        font-weight: 600;
-        font-size: 1em;
-        box-shadow: 0 4px 15px rgba(66, 133, 244, 0.3);
-        transition: all 0.3s ease;
-        border: none;
-    }
-
-    .scholar-button:hover {
-        transform: translateY(-2px);
-        box-shadow: 0 6px 25px rgba(66, 133, 244, 0.4);
-        color: white !important;
-    }
-
-    .scholar-button::before {
-        content: "🎓";
-        font-size: 1.2em;
-    }
-
-    /* Paper cards */
     .paper-card {
         display: flex;
-        margin-bottom: 30px;
-        padding: 20px;
-        border: 2px solid var(--global-border-color);
-        border-radius: 12px;
-        background: var(--global-bg-color);
-        box-shadow: 0 4px 6px rgba(0, 0, 0, 0.07);
-        transition: all 0.4s cubic-bezier(0.175, 0.885, 0.32, 1.275);
-        position: relative;
-        overflow: hidden;
-    }
-
-    .paper-card::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: -100%;
-        width: 100%;
-        height: 100%;
-        background: linear-gradient(90deg, transparent, rgba(66, 133, 244, 0.05), transparent);
-        transition: left 0.5s ease;
-    }
-
-    .paper-card:hover::before {
-        left: 100%;
+        margin-bottom: 20px;
+        padding: 10px;
+        border: 1px solid var(--global-border-color);
+        border-radius: 1px;
+        background-color: var(--global-bg-color);
+        box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+        transition: transform 0.2s ease, box-shadow 0.3s ease;
     }
 
     .paper-card:hover {
-        transform: translateY(-5px) scale(1.01);
-        box-shadow: 0 12px 30px rgba(0, 0, 0, 0.15);
-        border-color: rgba(66, 133, 244, 0.3);
+        transform: translateY(-0.5px);
+        box-shadow: 0 8px 20px var(--global-shadow-color);
     }
 
     .paper-image {
         flex: 0 0 400px;
-        margin-right: 25px;
+        margin-right: 20px;
     }
 
     .paper-image img {
@@ -96,53 +33,34 @@ author_profile: true
         object-fit: contain;
         object-position: center;
         background-color: white;
-        border-radius: 8px;
+        /* border-radius: 1px; */
         border: 1px solid var(--global-border-color);
         aspect-ratio: 2/1;
-        transition: transform 0.3s ease;
-    }
-
-    .paper-card:hover .paper-image img {
-        transform: scale(1.03);
     }
 
     .paper-content {
         flex: 1;
-        display: flex;
-        flex-direction: column;
-        justify-content: space-between;
     }
 
     .paper-title {
-        font-size: 1.35em;
-        font-weight: 700;
+        font-size: 1.2em;
+        font-weight: bold;
         color: var(--global-text-color);
-        margin-bottom: 12px;
-        line-height: 1.4;
-        transition: color 0.3s ease;
-    }
-
-    .paper-card:hover .paper-title {
-        color: #4285f4;
+        margin-bottom: 8px;
+        line-height: 1.3;
     }
 
     .paper-authors {
         color: var(--global-text-color);
-        margin-bottom: 10px;
+        margin-bottom: 8px;
         font-size: 0.95em;
-        line-height: 1.5;
     }
 
     .paper-venue {
         color: var(--global-text-color);
-        margin-bottom: 18px;
+        margin-bottom: 15px;
         font-style: italic;
         font-size: 0.9em;
-        padding: 5px 12px;
-        background: rgba(66, 133, 244, 0.08);
-        border-left: 3px solid #4285f4;
-        display: inline-block;
-        border-radius: 4px;
     }
 
     .paper-links {
@@ -152,37 +70,17 @@ author_profile: true
     }
 
     .btn {
-        padding: 8px 20px;
+        padding: 4px 16px;
         text-decoration: none !important;
-        border-radius: 6px;
-        font-size: 0.88em;
-        font-weight: 600;
+        border-radius: 2px;
+        font-size: 0.85em;
+        font-weight: 500;
         transition: all 0.3s ease;
-        border: 2px solid var(--global-text-color) !important;
+        border: 1.5px solid var(--global-text-color) !important;
         cursor: pointer;
         background: transparent !important;
         color: var(--global-text-color) !important;
-        display: inline-flex;
-        align-items: center;
-        gap: 6px;
-        position: relative;
-        overflow: hidden;
-    } 
-
-    /* .btn::before {
-        content: "";
-        position: absolute;
-        top: 0;
-        left: -100%;
-        width: 100%;
-        height: 100%;
-        background: var(--global-link-color);
-        transition: left 0.3s ease;
-        z-index: -1;
-    } */
-
-    .btn:hover::before {
-        left: 0;
+        display: inline-block;
     }
 
     .btn:hover,
@@ -193,91 +91,46 @@ author_profile: true
         text-decoration: none !important;
     }
 
-
-    /* Add icons to buttons using pseudo-elements */
-    .btn[href*="pdf"]::after,
-    .btn[href*="arxiv"]::after {
-        content: "📄";
+    .scholar-link {
+        text-align: center;
+        margin: 30px 0;
     }
 
-    .btn[href*="github"]::after {
-        content: "💻";
+    .scholar-link a {
+        background-color: #4285f4;
+        color: beige;
+        padding: 12px 24px;
+        text-decoration: none;
+        border-radius: 6px;
+        font-weight: 500;
+        transition: background-color 0.3s ease;
     }
 
-    .btn[href*="lab"]::after,
-    .btn[href*="Project"]::after {
-        content: "🌐";
+    .scholar-link a:hover {
+        background-color: #3367d6;
     }
 
-    /* Animations */
-    @keyframes fadeInDown {
-        from {
-            opacity: 0;
-            transform: translateY(-20px);
-        }
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
+    .intro-text {
+        margin-bottom: 30px;
+        font-size: 1.1em;
+        color: var(--global-text-color);
+        line-height: 1.6;
     }
 
-    .paper-card {
-        animation: fadeInUp 0.6s ease-out backwards;
-    }
-
-    .paper-card:nth-child(1) { animation-delay: 0.1s; }
-    .paper-card:nth-child(2) { animation-delay: 0.2s; }
-    .paper-card:nth-child(3) { animation-delay: 0.3s; }
-    .paper-card:nth-child(4) { animation-delay: 0.4s; }
-    .paper-card:nth-child(5) { animation-delay: 0.5s; }
-    .paper-card:nth-child(6) { animation-delay: 0.6s; }
-    .paper-card:nth-child(7) { animation-delay: 0.7s; }
-    .paper-card:nth-child(8) { animation-delay: 0.8s; }
-
-    @keyframes fadeInUp {
-        from {
-            opacity: 0;
-            transform: translateY(30px);
-        }
-        to {
-            opacity: 1;
-            transform: translateY(0);
-        }
-    }
-
-    /* Responsive design */
     @media (max-width: 968px) {
         .paper-card {
             flex-direction: column;
-            padding: 15px;
         }
 
         .paper-image {
             flex: none;
             margin-right: 0;
-            margin-bottom: 20px;
-            max-width: 100%;
+            margin-bottom: 15px;
         }
 
         .paper-links {
-            justify-content: flex-start;
+            justify-content: center;
         }
-
-        .paper-title {
-            font-size: 1.2em;
-        }
-
-        .research-intro {
-            font-size: 1em;
-            padding: 0 15px;
-        }
-    }
-
-    /* Divider */
-    .publications-divider {
-        height: 2px;
-        background: linear-gradient(to right, transparent, var(--global-border-color), transparent);
-        margin: 40px 0;
     }
 </style>
 
