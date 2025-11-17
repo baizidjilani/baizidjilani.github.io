@@ -8,6 +8,256 @@ redirect_from:
   - /about.html
 ---
 
+<style>
+    /* Container optimization */
+    .page__content {
+        max-width: 100%;
+    }
+
+    /* About section styling */
+    .about-section {
+        animation: fadeInUp 0.8s ease-out;
+    }
+
+    .section-title {
+        font-size: 2em;
+        font-weight: 700;
+        color: var(--global-text-color);
+        margin-bottom: 20px;
+        padding-bottom: 12px;
+        border-bottom: 3px solid #4285f4;
+        display: inline-block;
+        letter-spacing: -0.5px;
+    }
+
+    .about-content {
+        font-size: 1.1em;
+        line-height: 1.8;
+        color: var(--global-text-color);
+        margin-bottom: 40px;
+    }
+
+    .about-content p {
+        margin-bottom: 20px;
+        text-align: justify;
+    }
+
+    .highlight-box {
+        background: linear-gradient(135deg, rgba(66, 133, 244, 0.05) 0%, rgba(66, 133, 244, 0.02) 100%);
+        border-left: 4px solid #4285f4;
+        padding: 20px 25px;
+        border-radius: 8px;
+        margin: 25px 0;
+        box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+    }
+
+    /* News section styling */
+    .news-section {
+        margin-top: 50px;
+        animation: fadeInUp 0.8s ease-out 0.2s backwards;
+    }
+
+    .news-container {
+        max-width: 100%;
+        margin-top: 30px;
+    }
+
+    .news-item {
+        display: flex;
+        margin-bottom: 25px;
+        padding: 20px;
+        background: var(--global-bg-color);
+        border: 2px solid var(--global-border-color);
+        border-radius: 10px;
+        box-shadow: 0 3px 10px rgba(0, 0, 0, 0.08);
+        transition: all 0.3s ease;
+        position: relative;
+        overflow: hidden;
+    }
+
+    .news-item::before {
+        content: "";
+        position: absolute;
+        left: 0;
+        top: 0;
+        bottom: 0;
+        width: 5px;
+        background: linear-gradient(180deg, #4285f4 0%, #3367d6 100%);
+        transition: width 0.3s ease;
+    }
+
+    .news-item:hover {
+        transform: translateX(5px);
+        box-shadow: 0 5px 20px rgba(66, 133, 244, 0.15);
+        border-color: rgba(66, 133, 244, 0.3);
+    }
+
+    .news-item:hover::before {
+        width: 8px;
+    }
+
+    .news-date {
+        flex: 0 0 160px;
+        font-weight: 700;
+        font-size: 1em;
+        color: #4285f4;
+        padding-right: 25px;
+        display: flex;
+        align-items: flex-start;
+        padding-top: 2px;
+    }
+
+    .news-date::before {
+        content: "📅";
+        margin-right: 8px;
+        font-size: 1.1em;
+    }
+
+    .news-content {
+        flex: 1;
+        font-size: 1.05em;
+        line-height: 1.6;
+        color: var(--global-text-color);
+    }
+
+    .news-content strong {
+        color: #3367d6;
+        font-weight: 600;
+    }
+
+    .achievement-badge {
+        display: inline-block;
+        background: linear-gradient(135deg, #4285f4 0%, #3367d6 100%);
+        color: white;
+        padding: 3px 10px;
+        border-radius: 12px;
+        font-size: 0.85em;
+        font-weight: 600;
+        margin-left: 5px;
+        box-shadow: 0 2px 5px rgba(66, 133, 244, 0.3);
+    }
+
+    /* Divider */
+    .section-divider {
+        height: 2px;
+        background: linear-gradient(to right, transparent, var(--global-border-color), transparent);
+        margin: 45px 0;
+    }
+
+    /* Animations */
+    @keyframes fadeInUp {
+        from {
+            opacity: 0;
+            transform: translateY(30px);
+        }
+        to {
+            opacity: 1;
+            transform: translateY(0);
+        }
+    }
+
+    /* Responsive design */
+    @media (max-width: 768px) {
+        .section-title {
+            font-size: 1.6em;
+        }
+
+        .about-content {
+            font-size: 1em;
+        }
+
+        .news-item {
+            flex-direction: column;
+            padding: 15px;
+        }
+
+        .news-date {
+            flex: none;
+            padding-right: 0;
+            margin-bottom: 10px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid var(--global-border-color);
+        }
+
+        .news-content {
+            font-size: 0.95em;
+        }
+
+        .highlight-box {
+            padding: 15px 18px;
+        }
+    }
+</style>
+
+<div class="about-section">
+    <h1 class="section-title">About Me</h1>
+    
+    <div class="about-content">
+        <p>
+            I am a first-year PhD student at Southern Illinois University Carbondale, where my research focuses on <strong>computer vision</strong> and its applications in the medical field. I am particularly interested in deriving meaningful insights from medical, biomedical, and microscopy images to address critical clinical challenges and improve diagnostic accuracy.
+        </p>
+         <p>
+            Before commencing my doctoral studies, I served as a <strong>Research Assistant</strong> at SUST Research Center, Sylhet, Bangladesh, where I gained valuable experience in applied research and computational methods. I received my Bachelor's degree from the Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering.
+        </p>
+        
+        <div class="highlight-box">
+            <strong>Research Interests:</strong> Medical Image Analysis • Computer Vision • Generative AI • AI for Healthcare • Natural Language Processing
+        </div>
+  
+    </div>
+</div>
+
+<div class="section-divider"></div>
+
+<div class="news-section">
+    <h1 class="section-title">Recent News & Updates</h1>
+    
+    <div class="news-container">
+        <div class="news-item">
+            <div class="news-date">October 2025</div>
+            <div class="news-content">
+                📝 Our paper titled <em>"Contrastive-inspired feature optimization for generative diffusion-augmented learning in digital breast tomosynthesis"</em> has been accepted at <strong>SPIE Medical Imaging 2026</strong> (Computer-Aided Diagnosis).
+                <span class="achievement-badge">Paper Accepted</span>
+            </div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-date">October 2025</div>
+            <div class="news-content">
+                🎤 Virtually attended and presented my research on <em>Generative AI for lesion synthesis in DBT</em> at the <strong>IEEE SMC 2025</strong> conference, Vienna, Austria.
+                <span class="achievement-badge">Conference Presentation</span>
+            </div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-date">June 2025</div>
+            <div class="news-content">
+                📝 Our paper titled <em>"Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study"</em> has been accepted at <strong>IEEE SMC 2025</strong>.
+                <span class="achievement-badge">Paper Accepted</span>
+            </div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-date">May 2025</div>
+            <div class="news-content">
+                🔍 Serving as a reviewer for <strong>IEEE SMC 2025</strong>.
+                <span class="achievement-badge">Service</span>
+            </div>
+        </div>
+
+        <div class="news-item">
+            <div class="news-date">January 2025</div>
+            <div class="news-content">
+                🎓 Joined as a PhD student at <strong>Southern Illinois University Carbondale</strong>, beginning my doctoral journey in computer vision and medical imaging.
+                <span class="achievement-badge">Milestone</span>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+<!--
 # About Me
 ---------------------
 I am a first year PhD student at Southern Illinois University Carbondale. My research focuses on computer vision and its applications in the medical field. I am particularly interested in deriving meaningful information from medical, biomedical and microscopy images to address the critical clinical problems. 
@@ -50,7 +300,7 @@ Before starting my doctoral studies, I worked as a research assistant at SUST Re
       <strong>June, 2025</strong>
     </td>
     <td style="border: none; text-align: left;">
-      Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC 2025</strong> .
+      Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC 2025</strong>.
     </td>
   </tr>
 
@@ -71,6 +321,7 @@ Before starting my doctoral studies, I worked as a research assistant at SUST Re
     </td>
   </tr>
 </table>
+-->
 
 
 
