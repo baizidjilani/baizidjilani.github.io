@@ -29,7 +29,8 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
       <strong>October, 2025</strong>
     </td>
     <td style="border: none; text-align: left;">
-      Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at SPIE Medical Imaging 2026 (Computer-Aided Diagnosis).
+      Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at 
+      <strong>SPIE Medical Imaging 2026 (Computer-Aided Diagnosis).</strong>
     </td>
   </tr>
 
