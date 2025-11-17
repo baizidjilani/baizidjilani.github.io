@@ -48,7 +48,7 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
       <strong>June, 2025</strong>
     </td>
     <td style="border: none; text-align: left;">
-      Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC2025.<strong>
+      Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC 2025.<strong>
     </td>
   </tr>
 
