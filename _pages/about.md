@@ -247,7 +247,7 @@ redirect_from:
         <div class="news-item">
             <div class="news-date">January 2025</div>
             <div class="news-content">
-                🎓 Joined as a PhD student at Southern Illinois University Carbondale, beginning my doctoral journey in computer vision and medical imaging.
+              Joined as a PhD student at Southern Illinois University Carbondale, beginning my doctoral journey in computer vision and medical imaging.
             </div>
         </div>
     </div>
