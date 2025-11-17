@@ -139,11 +139,11 @@ redirect_from:
     }
 
     /* Divider */
-    .section-divider {
+    /* .section-divider {
         height: 2px;
         background: linear-gradient(to right, transparent, var(--global-border-color), transparent);
         margin: 45px 0;
-    }
+    } */
 
     /* Animations */
     @keyframes fadeInUp {
