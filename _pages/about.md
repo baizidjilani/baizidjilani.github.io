@@ -30,7 +30,7 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
     </td>
     <td style="border: none; text-align: left;">
       Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at 
-      <strong>SPIE Medical Imaging 2026 (Computer-Aided Diagnosis).</strong>
+      <strong>SPIE Medical Imaging 2026</strong> (Computer-Aided Diagnosis).
     </td>
   </tr>
 
@@ -39,7 +39,7 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
       <strong>October, 2025</strong>
     </td>
     <td style="border: none; text-align: left;">
-      Virtually attended and presented my research on Generative AI for lesion synthesis in DBT at the IEEE SMC 2025 conference, Vienna, Austria.
+      Virtually attended and presented my research on Generative AI for lesion synthesis in DBT at the <strong>IEEE SMC 2025</strong>  conference, Vienna, Austria.
     </td>
   </tr>
 
@@ -48,7 +48,7 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
       <strong>June, 2025</strong>
     </td>
     <td style="border: none; text-align: left;">
-      Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC 2025.<strong>
+      Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC 2025</strong> .
     </td>
   </tr>
 
@@ -57,7 +57,7 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
       <strong>May, 2025</strong>
     </td>
     <td style="border: none; text-align: left;">
-      Serving as a reviewer for <strong>IEEE SMC 2025.<strong>
+      Serving as a reviewer for <strong>IEEE SMC 2025.</strong>
     </td>
   </tr>
   <tr>
@@ -65,7 +65,7 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
       <strong>January, 2025</strong>
     </td>
     <td style="border: none; text-align: left;">
-      Joined as a PhD student at <strong>Southern Illinois University Carbondale.<strong>
+      Joined as a PhD student at <strong>Southern Illinois University Carbondale.</strong>
     </td>
   </tr>
 </table>
