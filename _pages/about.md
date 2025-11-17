@@ -10,8 +10,9 @@ redirect_from:
 
 # About Me
 ---------------------
-Hello, I'm Golam Jilani, a computer science graduate student. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. My research interests are in the areas of Machine Learning, Computer Vision, Natural Language Processing, and Data Mining. I am interested in deriving meaningful information from texts/images/videos to solve real-world problems.
+I am a first year PhD student at Southern Illinois University Carbondale. My research focuses on computer vision and its applications in the medical field. I am particularly interested in deriving meaningful information from medical, biomedical and microscopy images to address the critical clinical problems. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. 
 
+<!--
 # Education
 --------------------
 <div style="display: flex; justify-content: space-between;">
@@ -26,8 +27,8 @@ Hello, I'm Golam Jilani, a computer science graduate student. I received my bach
     <div>GPA: 3.51/4.00 (<b>3.73</b> in the last two years)</div>
     <div></div>
 </div><br>
-
-
+-->
+<!--
 # Research Experience
 ---------------------
 <div style="display: flex; justify-content: space-between;">
@@ -60,7 +61,7 @@ Supervisor: <a href="https://www.sust.edu/d/cse/faculty-profile-detail/44" targe
 Supervisor: <strong>Prof. Moqsadur Rahman</strong> <br>
 <div>
 In recent years, there has been an increasing interest in expressing thoughts and feelings on social media rather than in face-to-face conversation. Social networks, especially Reddit, have emerged as powerful platforms for sharing depression, which can be utilized to analyze the trends of depression. For this, we collected a bulk amount of depression-related data (1M posts) crawling from Reddit and utilized NLTK for text processing and custom functions for text cleaning. We preprocessed the data in a time-based approach: Incremental Window and Sliding Window. We used pre-trained word embeddings like Skip-gram and GloVe for analyzing trends related to depression, leveraging the semantic relationships encoded in word vectors.
-
+-->
 
 <h2>  Publications </h2>
 <div>
