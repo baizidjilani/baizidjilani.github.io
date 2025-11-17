@@ -210,13 +210,13 @@ redirect_from:
 <div class="section-divider"></div>
 
 <div class="news-section">
-    <h1 class="section-title">Recent News & Updates</h1>
+    <h1 class="section-title">News</h1>
     
     <div class="news-container">
         <div class="news-item">
             <div class="news-date">October 2025</div>
             <div class="news-content">
-                📝 Our paper titled <em>"Contrastive-inspired feature optimization for generative diffusion-augmented learning in digital breast tomosynthesis"</em> has been accepted at <strong>SPIE Medical Imaging 2026</strong> (Computer-Aided Diagnosis).
+                Our paper titled <em>"Contrastive-inspired feature optimization for generative diffusion-augmented learning in digital breast tomosynthesis"</em> has been accepted at <strong>SPIE Medical Imaging 2026</strong> (Computer-Aided Diagnosis).
                 <span class="achievement-badge">Paper Accepted</span>
             </div>
         </div>
@@ -224,15 +224,14 @@ redirect_from:
         <div class="news-item">
             <div class="news-date">October 2025</div>
             <div class="news-content">
-                🎤 Virtually attended and presented my research on <em>Generative AI for lesion synthesis in DBT</em> at the <strong>IEEE SMC 2025</strong> conference, Vienna, Austria.
-                <span class="achievement-badge">Conference Presentation</span>
+                Virtually attended and presented my research on <em>Generative AI for lesion synthesis in DBT</em> at the <strong>IEEE SMC 2025</strong> conference, Vienna, Austria.
             </div>
         </div>
 
         <div class="news-item">
             <div class="news-date">June 2025</div>
             <div class="news-content">
-                📝 Our paper titled <em>"Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study"</em> has been accepted at <strong>IEEE SMC 2025</strong>.
+                Our paper titled <em>"Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study"</em> has been accepted at <strong>IEEE SMC 2025</strong>.
                 <span class="achievement-badge">Paper Accepted</span>
             </div>
         </div>
@@ -240,8 +239,7 @@ redirect_from:
         <div class="news-item">
             <div class="news-date">May 2025</div>
             <div class="news-content">
-                🔍 Serving as a reviewer for <strong>IEEE SMC 2025</strong>.
-                <span class="achievement-badge">Service</span>
+                Serving as a reviewer for <strong>IEEE SMC 2025</strong>.
             </div>
         </div>
 
@@ -249,80 +247,10 @@ redirect_from:
             <div class="news-date">January 2025</div>
             <div class="news-content">
                 🎓 Joined as a PhD student at <strong>Southern Illinois University Carbondale</strong>, beginning my doctoral journey in computer vision and medical imaging.
-                <span class="achievement-badge">Milestone</span>
             </div>
         </div>
     </div>
 </div>
-
-
-
-<!--
-# About Me
----------------------
-I am a first year PhD student at Southern Illinois University Carbondale. My research focuses on computer vision and its applications in the medical field. I am particularly interested in deriving meaningful information from medical, biomedical and microscopy images to address the critical clinical problems. 
-
-Before starting my doctoral studies, I worked as a research assistant at SUST Research Center, Sylhet, Bangladesh. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. 
-
-# News
-<table style="border: none; font-size: 16px;">
-  <!--
-  <tr>
-    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-      <strong>10/2025</strong>
-    </td>
-    <td style="border: none; text-align: left;">
-      <a href="https://arxiv.org/pdf/64660.264532345784">Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study</a>. 
-    </td>
-  </tr>
-  -->
-  <tr>
-    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-      <strong>October, 2025</strong>
-    </td>
-    <td style="border: none; text-align: left;">
-      Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at 
-      <strong>SPIE Medical Imaging 2026</strong> (Computer-Aided Diagnosis).
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-      <strong>October, 2025</strong>
-    </td>
-    <td style="border: none; text-align: left;">
-      Virtually attended and presented my research on Generative AI for lesion synthesis in DBT at the <strong>IEEE SMC 2025</strong>  conference, Vienna, Austria.
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-      <strong>June, 2025</strong>
-    </td>
-    <td style="border: none; text-align: left;">
-      Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC 2025</strong>.
-    </td>
-  </tr>
-
-  <tr>
-    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-      <strong>May, 2025</strong>
-    </td>
-    <td style="border: none; text-align: left;">
-      Serving as a reviewer for <strong>IEEE SMC 2025.</strong>
-    </td>
-  </tr>
-  <tr>
-    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-      <strong>January, 2025</strong>
-    </td>
-    <td style="border: none; text-align: left;">
-      Joined as a PhD student at <strong>Southern Illinois University Carbondale.</strong>
-    </td>
-  </tr>
-</table>
--->
-
 
 
 <!--
