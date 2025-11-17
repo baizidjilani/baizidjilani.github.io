@@ -121,7 +121,8 @@ redirect_from:
     }
 
     .news-content strong {
-        color: #3367d6;
+        /* color: #3367d6;*/
+        color: #000000;
         font-weight: 600;
     }
 
