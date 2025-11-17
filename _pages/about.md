@@ -198,7 +198,7 @@ redirect_from:
             I am a first-year PhD student at Southern Illinois University Carbondale, where my research focuses on <strong>computer vision</strong> and its applications in the medical field. I am particularly interested in deriving meaningful insights from medical, biomedical, and microscopy images to address critical clinical challenges and improve diagnostic accuracy.
         </p>
          <p>
-            Before commencing my doctoral studies, I worked as a <strong>Research Assistant</strong> at SUST Research Center, Sylhet, Bangladesh. I received my Bachelor's degree from the Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering.
+            Before starting my doctoral studies, I worked as a <strong>Research Assistant</strong> at SUST Research Center, Sylhet, Bangladesh. I received my Bachelor's degree from the Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering.
         </p>
         
         <div class="highlight-box">
