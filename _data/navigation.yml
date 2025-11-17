@@ -18,8 +18,8 @@ main:
   - title: "CV"
     url: /files/CV-Golam Jilani.pdf
     
-  - title: "Projects"
-    url: /projects/
+  # - title: "Projects"
+  #   url: /projects/
     
   
     
