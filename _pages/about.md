@@ -12,6 +12,66 @@ redirect_from:
 ---------------------
 I am a first year PhD student at Southern Illinois University Carbondale. My research focuses on computer vision and its applications in the medical field. I am particularly interested in deriving meaningful information from medical, biomedical and microscopy images to address the critical clinical problems. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. 
 
+
+<table style="border: none; font-size: 16px;">
+<!--
+<tr>
+  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+    <strong>10/2025</strong>
+  </td>
+  <td style="border: none; text-align: left;">
+    <a href="https://arxiv.org/pdf/64660.264532345784">Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study</a>. 
+  </td>
+</tr>
+-->
+
+<tr>
+  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+    <strong>October, 2025</strong>
+  </td>
+  <td style="border: none; text-align: left;">
+    Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at <strong>SPIE Medical Imaging 2026 (Computer-Aided Diagnosis).<strong>
+  </td>
+</tr>
+
+<tr>
+  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+    <strong>October, 2025</strong>
+  </td>
+  <td style="border: none; text-align: left;">
+    Virtually attended and presented my research on Generative AI for lesion synthesis in DBT at the IEEE SMC 2025 conference, Vienna, Austria.
+  </td>
+</tr>
+
+<tr>
+  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+    <strong>June, 2025</strong>
+  </td>
+  <td style="border: none; text-align: left;">
+    Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC2025.<strong>
+  </td>
+</tr>
+
+<tr>
+  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+    <strong>May, 2025</strong>
+  </td>
+  <td style="border: none; text-align: left;">
+    Serving as a reviewer for <strong>IEEE SMC 2025.<strong>
+  </td>
+</tr>
+<tr>
+  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+    <strong>January, 2025</strong>
+  </td>
+  <td style="border: none; text-align: left;">
+    Joined as a PhD student at <strong>Southern Illinois University Carbondale.<strong>
+  </td>
+</tr>
+</table>
+
+
+
 <!--
 # Education
 --------------------
@@ -62,7 +122,7 @@ Supervisor: <strong>Prof. Moqsadur Rahman</strong> <br>
 <div>
 In recent years, there has been an increasing interest in expressing thoughts and feelings on social media rather than in face-to-face conversation. Social networks, especially Reddit, have emerged as powerful platforms for sharing depression, which can be utilized to analyze the trends of depression. For this, we collected a bulk amount of depression-related data (1M posts) crawling from Reddit and utilized NLTK for text processing and custom functions for text cleaning. We preprocessed the data in a time-based approach: Incremental Window and Sliding Window. We used pre-trained word embeddings like Skip-gram and GloVe for analyzing trends related to depression, leveraging the semantic relationships encoded in word vectors.
 -->
-
+<!--
 <h2>  Publications </h2>
 <div>
   <strong>SUFEDB: A facial expression database for emotion recognition</strong> <br/>
@@ -75,7 +135,7 @@ In recent years, there has been an increasing interest in expressing thoughts an
 <span style="opacity: 0.9;"><strong>Golam Jilani</strong>, Samara Paul, Sadia Sultana </span> <br/>
 <span style="opacity: 0.5;">(under review)</span> 
 </div>
-
+-->
 
 
 <h2> Technical Skills </h2>
