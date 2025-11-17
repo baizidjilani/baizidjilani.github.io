@@ -82,14 +82,14 @@ redirect_from:
         top: 0;
         bottom: 0;
         width: 5px;
-        background: linear-gradient(180deg, #4285f4 0%, #3367d6 100%);
+        /* background: linear-gradient(180deg, #4285f4 0%, #3367d6 100%); */
         transition: width 0.3s ease;
     }
 
     .news-item:hover {
         transform: translateX(5px);
         box-shadow: 0 5px 20px rgba(66, 133, 244, 0.15);
-        border-color: rgba(66, 133, 244, 0.3);
+        /* border-color: rgba(66, 133, 244, 0.3); */
     }
 
     .news-item:hover::before {
