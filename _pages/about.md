@@ -14,7 +14,7 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
 
 # News
 <table style="border: none; font-size: 16px;">
-<!--
+  <!--
   <tr>
     <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
       <strong>10/2025</strong>
@@ -24,13 +24,12 @@ I am a first year PhD student at Southern Illinois University Carbondale. My res
     </td>
   </tr>
   -->
-
   <tr>
     <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
       <strong>October, 2025</strong>
     </td>
     <td style="border: none; text-align: left;">
-      Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at <strong>SPIE Medical Imaging 2026 (Computer-Aided Diagnosis).<strong>
+      Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at <strong>SPIE Medical Imaging 2026 (Computer-Aided Diagnosis).
     </td>
   </tr>
 
