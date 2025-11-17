@@ -12,62 +12,62 @@ redirect_from:
 ---------------------
 I am a first year PhD student at Southern Illinois University Carbondale. My research focuses on computer vision and its applications in the medical field. I am particularly interested in deriving meaningful information from medical, biomedical and microscopy images to address the critical clinical problems. I received my bachelor's degree from Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering. 
 
-
+# News
 <table style="border: none; font-size: 16px;">
 <!--
-<tr>
-  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-    <strong>10/2025</strong>
-  </td>
-  <td style="border: none; text-align: left;">
-    <a href="https://arxiv.org/pdf/64660.264532345784">Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study</a>. 
-  </td>
-</tr>
--->
+  <tr>
+    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+      <strong>10/2025</strong>
+    </td>
+    <td style="border: none; text-align: left;">
+      <a href="https://arxiv.org/pdf/64660.264532345784">Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study</a>. 
+    </td>
+  </tr>
+  -->
 
-<tr>
-  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-    <strong>October, 2025</strong>
-  </td>
-  <td style="border: none; text-align: left;">
-    Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at <strong>SPIE Medical Imaging 2026 (Computer-Aided Diagnosis).<strong>
-  </td>
-</tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+      <strong>October, 2025</strong>
+    </td>
+    <td style="border: none; text-align: left;">
+      Our paper titled “Contrastive‑inspired feature optimization for generative diffusion‑augmented learning in digital breast tomosynthesis” is accepted at <strong>SPIE Medical Imaging 2026 (Computer-Aided Diagnosis).<strong>
+    </td>
+  </tr>
 
-<tr>
-  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-    <strong>October, 2025</strong>
-  </td>
-  <td style="border: none; text-align: left;">
-    Virtually attended and presented my research on Generative AI for lesion synthesis in DBT at the IEEE SMC 2025 conference, Vienna, Austria.
-  </td>
-</tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+      <strong>October, 2025</strong>
+    </td>
+    <td style="border: none; text-align: left;">
+      Virtually attended and presented my research on Generative AI for lesion synthesis in DBT at the IEEE SMC 2025 conference, Vienna, Austria.
+    </td>
+  </tr>
 
-<tr>
-  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-    <strong>June, 2025</strong>
-  </td>
-  <td style="border: none; text-align: left;">
-    Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC2025.<strong>
-  </td>
-</tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+      <strong>June, 2025</strong>
+    </td>
+    <td style="border: none; text-align: left;">
+      Our paper titled “Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study” is accepted at <strong>IEEE SMC2025.<strong>
+    </td>
+  </tr>
 
-<tr>
-  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-    <strong>May, 2025</strong>
-  </td>
-  <td style="border: none; text-align: left;">
-    Serving as a reviewer for <strong>IEEE SMC 2025.<strong>
-  </td>
-</tr>
-<tr>
-  <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
-    <strong>January, 2025</strong>
-  </td>
-  <td style="border: none; text-align: left;">
-    Joined as a PhD student at <strong>Southern Illinois University Carbondale.<strong>
-  </td>
-</tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+      <strong>May, 2025</strong>
+    </td>
+    <td style="border: none; text-align: left;">
+      Serving as a reviewer for <strong>IEEE SMC 2025.<strong>
+    </td>
+  </tr>
+  <tr>
+    <td style="text-align: left; vertical-align: top; padding-right: 20px; border: none;">
+      <strong>January, 2025</strong>
+    </td>
+    <td style="border: none; text-align: left;">
+      Joined as a PhD student at <strong>Southern Illinois University Carbondale.<strong>
+    </td>
+  </tr>
 </table>
 
 
