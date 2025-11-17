@@ -123,7 +123,7 @@ redirect_from:
     .news-content strong {
         /* color: #3367d6;*/
         color: #000000;
-        font-weight: 400;
+        font-weight: 500;
     }
 
     .achievement-badge {
