@@ -229,6 +229,13 @@ redirect_from:
             </div>
         </div>
 
+         <div class="news-item">
+            <div class="news-date">June 2025</div>
+            <div class="news-content">
+                I am co-organizing the <a href="https://aiir-lab.github.io/MAPLE2025/" target="_blank">Multi-modal Machine Learning in Practice: Algorithms and Applications (MAPLE)</a> @ ICMLA 2025!
+            </div>
+        </div>
+
         <div class="news-item">
             <div class="news-date">June 2025</div>
             <div class="news-content">
