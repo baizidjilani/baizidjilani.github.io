@@ -202,7 +202,7 @@ redirect_from:
         </p>
         
         <div class="highlight-box">
-            <strong>Research Interests:</strong> Medical Image Analysis • Computer Vision • Generative AI • AI for Healthcare • Natural Language Processing
+            <strong>Research Interests:</strong> Medical Image Analysis • Computer Vision • Generative AI • AI for Healthcare • Machine Learning • Natural Language Processing
         </div>
   
     </div>
