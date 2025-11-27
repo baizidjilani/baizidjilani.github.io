@@ -218,7 +218,7 @@ redirect_from:
             <div class="news-date">October 2025</div>
             <div class="news-content">
                 Our paper titled <em>"Contrastive-inspired feature optimization for generative diffusion-augmented learning in digital breast tomosynthesis"</em> has been accepted at <strong>SPIE Medical Imaging 2026: Computer-Aided Diagnosis</strong>.
-                <span class="achievement-badge">Paper Accepted</span>
+                <span class="achievement-badge">Accepted for Oral Presentation</span>
             </div>
         </div>
 
