@@ -195,14 +195,14 @@ redirect_from:
     
     <div class="about-content">
         <p>
-            I am a first-year PhD student at Southern Illinois University Carbondale. My research focuses on computer vision and its applications in the medical field. I am particularly interested in deriving meaningful insights from medical, biomedical, and microscopy images to address critical clinical challenges and improve diagnostic accuracy.
+            I am a second-year graduate student at Southern Illinois University Carbondale. My research focuses on computer vision and its applications in the medical field. I am particularly interested in deriving meaningful insights from medical, biomedical, and microscopy images to address critical clinical challenges and improve diagnostic accuracy.
         </p>
          <p>
-            Before starting my doctoral studies, I worked as a Research Assistant at SUST Research Center, Sylhet, Bangladesh. I received my Bachelor's degree from the Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering.
+            Before starting my graduate studies, I worked as a Research Assistant at SUST Research Center, Sylhet, Bangladesh. I received my Bachelor's degree from the Shahjalal University of Science & Technology (SUST) in 2023, majoring in Computer Science & Engineering.
         </p>
         
         <div class="highlight-box">
-            <strong>Research Interests:</strong> Medical Image Analysis • Computer Vision • Generative AI • AI for Healthcare • Machine Learning • Natural Language Processing
+            <strong>Research Interests:</strong> Medical Image Analysis • AI in Healthcare • Computer Vision • Generative AI  • Multimodal Deep Learning 
         </div>
   
     </div>
@@ -214,6 +214,18 @@ redirect_from:
     <h1 class="section-title">News</h1>
     
     <div class="news-container">
+        <div class="news-item">
+            <div class="news-date">October 2026</div>
+            <div class="news-content">
+                Our paper titled <em>"CVA-CLIP: Cross-view attention in VLMs for cancer detection in mammograms"</em> has been accepted at <strong>IEEE Big Data 2026</strong>.
+            </div>
+        </div>
+        <div class="news-item">
+            <div class="news-date">July 2026</div>
+            <div class="news-content">
+                Our paper titled <em>"Retrieval-Guided Few-Shot with Foundation Model for Annotation-Resistant Segmentation: A Soybean Foliar Disease Application"</em> has been accepted at <strong>IEEE ICMLA 2026</strong>.
+            </div>
+        </div>
         <div class="news-item">
             <div class="news-date">October 2025</div>
             <div class="news-content">
@@ -240,7 +252,6 @@ redirect_from:
             <div class="news-date">June 2025</div>
             <div class="news-content">
                 Our paper titled <em>"Generative diffusion-augmented learning for lesion detection in digital breast tomosynthesis: A proof-of-concept study"</em> has been accepted at <strong>IEEE SMC 2025</strong>.
-                <span class="achievement-badge">Paper Accepted</span>
             </div>
         </div>
 
@@ -251,12 +262,14 @@ redirect_from:
             </div>
         </div>
 
+        <!--
         <div class="news-item">
             <div class="news-date">January 2025</div>
             <div class="news-content">
               Joined as a PhD student at Southern Illinois University Carbondale, beginning my doctoral journey in computer vision and medical imaging.
             </div>
         </div>
+        -->
     </div>
 </div>
 
